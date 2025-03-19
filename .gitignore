@@ -1,0 +1,26 @@
+# Visual Studio or IDE generated files
+.vs/
+.vscode/
+.idea/
+*.vcxproj
+*.filters
+
+*.db# Visual Studio or IDE generated files
+.vs/
+.vscode/
+.idea/
+*.vcxproj
+*.filters
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary data (output files)
+src/output/
+build
+
+# Database files
+*.db

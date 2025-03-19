@@ -1,0 +1,27 @@
+Antwort ID,Datum Abgeschickt,Letzte Seite,Start-Sprache,Zufallsstartwert,Geben Sie ihren Vor- und Nachnamen an. [Vorname],Geben Sie ihren Vor- und Nachnamen an. [Nachname],Welches Geschlecht schreiben Sie sich selbst zu?,"Gibt es ein Geschlecht, das Sie auf keine Fall spielen wollen?"
+1,1980-01-01 00:00:00,1,de,794860431,Vorname_1,Nachname_1,Männlich,Weiblich
+2,1980-01-01 00:00:00,1,de,622230608,Vorname_2,Nachname_2,Weiblich,
+3,1980-01-01 00:00:00,1,de,926659974,Vorname_3,Nachname_3,Männlich,
+4,1980-01-01 00:00:00,1,de,950301050,Vorname_4,Nachname_4,Männlich,
+5,1980-01-01 00:00:00,1,de,140604389,Vorname_5,Nachname_5,Divers,
+6,1980-01-01 00:00:00,1,de,479670110,Vorname_6,Nachname_6,Männlich,
+7,1980-01-01 00:00:00,1,de,121171188,Vorname_7,Nachname_7,Divers,
+8,1980-01-01 00:00:00,1,de,414719331,Vorname_8,Nachname_8,Divers,
+9,1980-01-01 00:00:00,1,de,932061712,Vorname_9,Nachname_9,Männlich,
+10,1980-01-01 00:00:00,1,de,572037651,Vorname_10,Nachname_10,Divers,
+11,1980-01-01 00:00:00,1,de,851177966,Vorname_11,Nachname_11,Weiblich,
+12,1980-01-01 00:00:00,1,de,600356303,Vorname_12,Nachname_12,Divers,
+13,1980-01-01 00:00:00,1,de,216429210,Vorname_13,Nachname_13,Weiblich,Weiblich
+14,1980-01-01 00:00:00,1,de,711086056,Vorname_14,Nachname_14,Weiblich,
+15,1980-01-01 00:00:00,1,de,811899005,Vorname_15,Nachname_15,Weiblich,
+16,1980-01-01 00:00:00,1,de,993495199,Vorname_16,Nachname_16,Weiblich,
+17,1980-01-01 00:00:00,1,de,443137879,Vorname_17,Nachname_17,Divers,
+18,1980-01-01 00:00:00,1,de,901743138,Vorname_18,Nachname_18,Weiblich,
+19,1980-01-01 00:00:00,1,de,824890213,Vorname_19,Nachname_19,Divers,
+20,1980-01-01 00:00:00,1,de,557455117,Vorname_20,Nachname_20,Männlich,
+21,1980-01-01 00:00:00,1,de,432122556,Vorname_21,Nachname_21,Männlich,
+22,1980-01-01 00:00:00,1,de,561192344,Vorname_22,Nachname_22,Weiblich,Divers
+23,1980-01-01 00:00:00,1,de,585128568,Vorname_23,Nachname_23,Weiblich,
+24,1980-01-01 00:00:00,1,de,693929959,Vorname_24,Nachname_24,Divers,
+25,1980-01-01 00:00:00,1,de,825322918,Vorname_25,Nachname_25,Weiblich,
+26,1980-01-01 00:00:00,1,de,800958976,Vorname_26,Nachname_26,Männlich,Weiblich

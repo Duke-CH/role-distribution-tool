@@ -1,0 +1,11 @@
+Antwort ID,Datum Abgeschickt,Letzte Seite,Start-Sprache,Zufallsstartwert,Geben Sie ihren Vor- und Nachnamen an. [Vorname],Geben Sie ihren Vor- und Nachnamen an. [Nachname],Welches Geschlecht schreiben Sie sich selbst zu?,"Gibt es ein Geschlecht, das Sie auf keine Fall spielen wollen?"
+1,1980-01-01 00:00:00,1,de,798283837,Vorname_1,Nachname_1,Divers,
+2,1980-01-01 00:00:00,1,de,397865612,Vorname_2,Nachname_2,Männlich,Männlich
+3,1980-01-01 00:00:00,1,de,779276704,Vorname_3,Nachname_3,Männlich,Männlich
+4,1980-01-01 00:00:00,1,de,840878573,Vorname_4,Nachname_4,Weiblich,Weiblich
+5,1980-01-01 00:00:00,1,de,390535278,Vorname_5,Nachname_5,Männlich,Männlich
+6,1980-01-01 00:00:00,1,de,100771149,Vorname_6,Nachname_6,Männlich,
+7,1980-01-01 00:00:00,1,de,701915708,Vorname_7,Nachname_7,Männlich,Weiblich
+8,1980-01-01 00:00:00,1,de,870952479,Vorname_8,Nachname_8,Weiblich,Männlich
+9,1980-01-01 00:00:00,1,de,747409400,Vorname_9,Nachname_9,Männlich,
+10,1980-01-01 00:00:00,1,de,326115733,Vorname_10,Nachname_10,Divers,Männlich
