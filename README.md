@@ -9,8 +9,8 @@ efficiency of a seminar course at the university.
 
 ## Installation
 1. Use the pre-built executable files
-   - [Windows (x86)](./releases/GUI_windows_x86.exe)  
-   - [macOS (arm64)](./releases/GUI_macOS_arm64)  
+   - [Windows (x86)](https://github.com/Duke-CH/role-distribution-tool/releases/latest/download/GUI_windows_x86.exe) 
+   - [macOS (arm64)](https://github.com/Duke-CH/role-distribution-tool/releases/latest/download/GUI_macOS_arm64) 
 2. Install the full Python repository
     ```bash
     # Clone the repository
