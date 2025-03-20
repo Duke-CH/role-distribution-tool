@@ -62,10 +62,6 @@ role-distribution-tool/
 |   ...
 │   └── test_role_assignment.py
 │
-├── /dist                       # Distributions of program
-│   ├── GUI_macOS_arm64         # Distribution for macOs system with architecture arm64
-│   └──GUI_windows_x86         # Distribution for Windows system with architecture x86
-│
 ├── .gitignore                  # Specifies files to ignore in version control
 ├── README.md                   # Project overview
 ```
