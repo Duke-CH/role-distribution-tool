@@ -8,9 +8,10 @@ efficiency of a seminar course at the university.
 3. We provide pre-built executable files for different operating systems for easy usage.
 
 ## Installation
-1. Use the pre-built executable files
-   - [Windows (x86)](https://github.com/Duke-CH/role-distribution-tool/releases/latest/download/GUI_windows_x86.exe) 
-   - [macOS (arm64)](https://github.com/Duke-CH/role-distribution-tool/releases/latest/download/GUI_macOS_arm64) 
+1. Download and run the program (pre-built executable file)
+   - [Windows (x86)](https://github.com/Duke-CH/role-distribution-tool/releases/latest/download/Rollenverteilungstool_windows_x86.exe) 
+   - [macOS (arm64)](https://github.com/Duke-CH/role-distribution-tool/releases/latest/download/Rollenverteilungstool_macOS_arm64)
+OR
 2. Install the full Python repository
     ```bash
     # Clone the repository
