@@ -58,8 +58,8 @@ role-distribution-tool/
 │   │   ├── deleteRoleWindowGUI.sql
 │   │   ├── editRoleWindowGUI.py
 │   │   └── GUI.py              # Main entry point for the program
-│
-├── tests/                      # Unit and integration tests
+│   │
+│   ├── tests/                      # Unit and integration tests
 │   ├── __init__.py
 |   ...
 │   └── test_role_assignment.py
