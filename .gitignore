@@ -21,6 +21,8 @@ __pycache__/
 # Temporary data (output files)
 src/output/
 build
+dist
+GUI.spec
 
 # Database files
 *.db

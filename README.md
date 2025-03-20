@@ -27,7 +27,9 @@ efficiency of a seminar course at the university.
     ```
 
 ## Usage
-Please read the user guide for complete instructions on how to use the program.
+Please read the [user guide](./User%20Guide.pdf) for complete instructions on how to use the program.
+
+The survey template to import into LimeSurvey can be found here: [Survey Template](./Limesurvey_Umfrage.lss)
 
 ## Repository Structure
 ```plaintext
