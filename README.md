@@ -58,11 +58,10 @@ role-distribution-tool/
 │   │   ├── deleteRoleWindowGUI.sql
 │   │   ├── editRoleWindowGUI.py
 │   │   └── GUI.py              # Main entry point for the program
-│   │
 │   ├── tests/                      # Unit and integration tests
-│   ├── __init__.py
-|   ...
-│   └── test_role_assignment.py
+│   │   ├── __init__.py
+│   │   ...
+│   │   └── test_role_assignment.py
 │
 ├── .gitignore                  # Specifies files to ignore in version control
 ├── README.md                   # Project overview
